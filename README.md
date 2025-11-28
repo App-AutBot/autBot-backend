@@ -82,7 +82,7 @@ Levamos a privacidade a sério.
 
 #### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/accessible-bot/accessible-bot.git](https://github.com/accessible-bot/accessible-bot.git)
+git clone [[https://github.com/accessible-bot/accessible-bot.git](https://github.com/accessible-bot/accessible-bot.git)](https://github.com/App-AutBot/autBot-backend.git)
 cd accessible-bot
 ```
 #### 2. Instalar Dependências
