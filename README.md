@@ -56,7 +56,7 @@ Neste semestre, o AutBot expandiu de um chatbot informativo para uma plataforma 
 
 Para uma visão aprofundada da arquitetura, personas e requisitos:
 
-* 📄 **Documentação Completa (PDF):** [Acessar PDF](./docs/AutBot_Documentacao_Tecnica.pdf)
+* 📄 **Documentação Completa (PDF):** [Acessar PDF](./api/docs/AutBot_Documentacao_Tecnica.pdf)
 * 🖼️ **Protótipos (Figma):** [Ver Protótipos do AutBot](#)
 
 ---
